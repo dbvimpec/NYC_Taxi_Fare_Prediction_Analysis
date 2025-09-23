@@ -38,3 +38,13 @@ To get a better picture, it would be good to integrate New York City TLC zone da
 ## Next Steps
 
 Next steps would be to implement continuous model monitoring. Set up automated retraining pipeline. Develop fallback models. Data validation practices should be used.
+
+## Repository Navigation
+
+* [images](images/)
+* [README](README.md)
+* [notebook](notebook.ipynb)
+* [presentaton](presetation.pdf)
+* [data](taxi_tripdata.csv)
+
+
